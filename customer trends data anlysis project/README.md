@@ -6,6 +6,8 @@ This project focuses on analyzing customer purchasing behavior using SQL and vis
 
 The analysis is performed on a customer dataset containing demographic details, purchase history, and engagement metrics.
 
+
+![Power BI Dashboard preview](dashboard.png)
 ---
 
 ## Objectives
